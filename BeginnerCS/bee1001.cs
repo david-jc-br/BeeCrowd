@@ -6,10 +6,10 @@ class URI
 
     static void Main(string[] args) 
     { 
-        int A = int.Parse(Console.ReadLine());
-        int B = int.Parse(Console.ReadLine());
-        int X = A + B;
-        Console.WriteLine($"X = {X}");
+        int a = int.Parse(Console.ReadLine());
+        int b = int.Parse(Console.ReadLine());
+        int x = a + b;
+        Console.WriteLine($"X = {x}");
     }
 
 }
