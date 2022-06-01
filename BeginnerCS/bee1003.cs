@@ -1,4 +1,4 @@
-//Extremely Basic Solution
+//Simple Sum
 using System;
 
 class URI
@@ -7,8 +7,8 @@ class URI
     {
         int a = int.Parse(Console.ReadLine());
         int b = int.Parse(Console.ReadLine());
-        int x = a + b;
-        Console.WriteLine($"X = {x}");
-    }
+        int sum = a + b;
 
+        Console.WriteLine($"SOMA = {sum}");
+    }
 }

@@ -1,11 +1,10 @@
 //Hello World Solution
-using System; 
+using System;
 
-class URI 
+class URI
 {
-
-    static void Main(string[] args) 
-    { 
+    static void Main()
+    {
         Console.WriteLine("Hello World!");
     }
 
